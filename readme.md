@@ -1,5 +1,3 @@
-# Herb Data Processing Project
-
 Python project designed to fetch, parse, and convert data about herbs and their locations from a web source into LUA format for use in applications like GatherMate2. The project is released under an open-source license, encouraging contributions, adaptations, and community improvements.
 
 ## Features
