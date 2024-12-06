@@ -1,0 +1,1412 @@
+[
+    {
+        "displayName": "Altered Luredrop",
+        "id": 414331,
+        "location": [
+            14752,
+            14838,
+            14753
+        ],
+        "name": "altered-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 46
+    },
+    {
+        "displayName": "Altered Mycobloom",
+        "id": 414330,
+        "location": [
+            14752,
+            14838,
+            14753
+        ],
+        "name": "altered-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 37
+    },
+    {
+        "displayName": "Altered Orbinid",
+        "id": 414332,
+        "location": [
+            14752,
+            14838,
+            14753
+        ],
+        "name": "altered-orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 53
+    },
+    {
+        "displayName": "Arathor's Spear",
+        "id": 414319,
+        "location": [
+            14838,
+            14717,
+            14795
+        ],
+        "name": "arathors-spear",
+        "skill": 1,
+        "type": -3,
+        "popularity": 199
+    },
+    {
+        "displayName": "Blessing Blossom",
+        "id": 414318,
+        "location": [
+            14717,
+            14838,
+            14795
+        ],
+        "name": "blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 63
+    },
+    {
+        "displayName": "Blessing Blossom",
+        "id": 454081,
+        "location": [
+            14795
+        ],
+        "name": "blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 10
+    },
+    {
+        "displayName": "Blessing Blossom",
+        "id": 454086,
+        "location": [
+            14838
+        ],
+        "name": "blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 16
+    },
+    {
+        "displayName": "Camouflaged Arathor's Spear",
+        "id": 414344,
+        "location": [
+            14717,
+            14838,
+            14795
+        ],
+        "name": "camouflaged-arathors-spear",
+        "skill": 1,
+        "type": -3,
+        "popularity": 20
+    },
+    {
+        "displayName": "Camouflaged Blessing Blossom",
+        "id": 414343,
+        "location": [
+            14717,
+            14771
+        ],
+        "name": "camouflaged-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 15
+    },
+    {
+        "displayName": "Camouflaged Blessing Blossom",
+        "id": 454078,
+        "location": [
+            14795
+        ],
+        "name": "camouflaged-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Camouflaged Blessing Blossom",
+        "id": 454083,
+        "location": [
+            14838
+        ],
+        "name": "camouflaged-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 20
+    },
+    {
+        "displayName": "Camouflaged Luredrop",
+        "id": 414341,
+        "location": [
+            14795,
+            14717
+        ],
+        "name": "camouflaged-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 20
+    },
+    {
+        "displayName": "Camouflaged Luredrop",
+        "id": 454007,
+        "location": [
+            14838
+        ],
+        "name": "camouflaged-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 17
+    },
+    {
+        "displayName": "Camouflaged Luredrop",
+        "id": 454051,
+        "location": [
+            14752,
+            14753
+        ],
+        "name": "camouflaged-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 13
+    },
+    {
+        "displayName": "Camouflaged Mycobloom",
+        "id": 414340,
+        "location": [
+            14717,
+            14771
+        ],
+        "name": "camouflaged-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 22
+    },
+    {
+        "displayName": "Camouflaged Mycobloom",
+        "id": 454065,
+        "location": [
+            14795
+        ],
+        "name": "camouflaged-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 8
+    },
+    {
+        "displayName": "Camouflaged Mycobloom",
+        "id": 454068,
+        "location": [
+            14838
+        ],
+        "name": "camouflaged-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Camouflaged Mycobloom",
+        "id": 454073,
+        "location": [
+            14752,
+            14753
+        ],
+        "name": "camouflaged-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Camouflaged Orbinid",
+        "id": 414342,
+        "location": [
+            14752,
+            14795,
+            14838,
+            -1
+        ],
+        "name": "camouflaged-orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 19
+    },
+    {
+        "displayName": "Crystallized Arathor's Spear",
+        "id": 414329,
+        "location": [
+            14717,
+            14838,
+            14795
+        ],
+        "name": "crystallized-arathors-spear",
+        "skill": 1,
+        "type": -3,
+        "popularity": 30
+    },
+    {
+        "displayName": "Crystallized Blessing Blossom",
+        "id": 414328,
+        "location": [
+            14717,
+            14838,
+            14795
+        ],
+        "name": "crystallized-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Crystallized Luredrop",
+        "id": 414326,
+        "location": [
+            14795,
+            14752,
+            14838,
+            -1
+        ],
+        "name": "crystallized-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 24
+    },
+    {
+        "displayName": "Crystallized Mycobloom",
+        "id": 414325,
+        "location": [
+            14717,
+            14838,
+            14795,
+            -1
+        ],
+        "name": "crystallized-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 20
+    },
+    {
+        "displayName": "Crystallized Orbinid",
+        "id": 414327,
+        "location": [
+            14752,
+            14795,
+            14838,
+            -1
+        ],
+        "name": "crystallized-orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 16
+    },
+    {
+        "displayName": "Irradiated Arathor's Spear",
+        "id": 414339,
+        "location": [
+            14717,
+            14838,
+            14795
+        ],
+        "name": "irradiated-arathors-spear",
+        "skill": 1,
+        "type": -3,
+        "popularity": 55
+    },
+    {
+        "displayName": "Irradiated Blessing Blossom",
+        "id": 414338,
+        "location": [
+            14717,
+            14838
+        ],
+        "name": "irradiated-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 25
+    },
+    {
+        "displayName": "Irradiated Blessing Blossom",
+        "id": 454079,
+        "location": [
+            14795
+        ],
+        "name": "irradiated-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 21
+    },
+    {
+        "displayName": "Irradiated Blessing Blossom",
+        "id": 454084,
+        "location": [
+            14838
+        ],
+        "name": "irradiated-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 9
+    },
+    {
+        "displayName": "Irradiated Luredrop",
+        "id": 414336,
+        "location": [
+            14795,
+            14717,
+            14838
+        ],
+        "name": "irradiated-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 113
+    },
+    {
+        "displayName": "Irradiated Luredrop",
+        "id": 454008,
+        "location": [
+            14838
+        ],
+        "name": "irradiated-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 7
+    },
+    {
+        "displayName": "Irradiated Luredrop",
+        "id": 454053,
+        "location": [
+            14752
+        ],
+        "name": "irradiated-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 16
+    },
+    {
+        "displayName": "Irradiated Mycobloom",
+        "id": 414335,
+        "location": [
+            14717,
+            14838
+        ],
+        "name": "irradiated-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 23
+    },
+    {
+        "displayName": "Irradiated Mycobloom",
+        "id": 454066,
+        "location": [
+            14795
+        ],
+        "name": "irradiated-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 8
+    },
+    {
+        "displayName": "Irradiated Mycobloom",
+        "id": 454069,
+        "location": [
+            14838
+        ],
+        "name": "irradiated-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 17
+    },
+    {
+        "displayName": "Irradiated Mycobloom",
+        "id": 454074,
+        "location": [
+            14752
+        ],
+        "name": "irradiated-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Irradiated Orbinid",
+        "id": 414337,
+        "location": [
+            14795,
+            14752,
+            14838
+        ],
+        "name": "irradiated-orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 43
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 414316,
+        "location": [
+            14795,
+            14717,
+            14838,
+            -1
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 66
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 440162,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 25
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 440163,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 440164,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 440167,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 440189,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 8
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 452971,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 16
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 452972,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 7
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 452973,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 84
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 452975,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 452976,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 19
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 452977,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 452978,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 18
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 452979,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 7
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 454010,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 180
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 454055,
+        "location": [
+            14752,
+            14753,
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 59
+    },
+    {
+        "displayName": "Luredrop",
+        "id": 454545,
+        "location": [
+            14838
+        ],
+        "name": "luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 25
+    },
+    {
+        "displayName": "Lush Arathor's Spear",
+        "id": 414324,
+        "location": [
+            14717,
+            14838,
+            14795
+        ],
+        "name": "lush-arathors-spear",
+        "skill": 1,
+        "type": -3,
+        "popularity": 57
+    },
+    {
+        "displayName": "Lush Blessing Blossom",
+        "id": 414323,
+        "location": [
+            14717
+        ],
+        "name": "lush-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 34
+    },
+    {
+        "displayName": "Lush Blessing Blossom",
+        "id": 454080,
+        "location": [
+            14795
+        ],
+        "name": "lush-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Lush Blessing Blossom",
+        "id": 454085,
+        "location": [
+            14838
+        ],
+        "name": "lush-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 9
+    },
+    {
+        "displayName": "Lush Luredrop",
+        "id": 414321,
+        "location": [
+            14795,
+            14717
+        ],
+        "name": "lush-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 62
+    },
+    {
+        "displayName": "Lush Luredrop",
+        "id": 454009,
+        "location": [
+            14838
+        ],
+        "name": "lush-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 27
+    },
+    {
+        "displayName": "Lush Luredrop",
+        "id": 454054,
+        "location": [
+            14752,
+            14753,
+            14838
+        ],
+        "name": "lush-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 32
+    },
+    {
+        "displayName": "Lush Mycobloom",
+        "id": 414320,
+        "location": [
+            14795
+        ],
+        "name": "lush-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Lush Mycobloom",
+        "id": 454062,
+        "location": [
+            14717
+        ],
+        "name": "lush-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 11
+    },
+    {
+        "displayName": "Lush Mycobloom",
+        "id": 454070,
+        "location": [
+            14838
+        ],
+        "name": "lush-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 10
+    },
+    {
+        "displayName": "Lush Mycobloom",
+        "id": 454075,
+        "location": [
+            14752,
+            14753,
+            14838
+        ],
+        "name": "lush-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 43
+    },
+    {
+        "displayName": "Lush Orbinid",
+        "id": 414322,
+        "location": [
+            14752,
+            14795,
+            14838,
+            -1
+        ],
+        "name": "lush-orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 23
+    },
+    {
+        "displayName": "Mycobloom",
+        "id": 414315,
+        "location": [
+            14795,
+            14838,
+            14717,
+            -1
+        ],
+        "name": "mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 9
+    },
+    {
+        "displayName": "Mycobloom",
+        "id": 440193,
+        "location": [
+            14838,
+            14795
+        ],
+        "name": "mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Mycobloom",
+        "id": 440200,
+        "location": [
+            14838
+        ],
+        "name": "mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Mycobloom",
+        "id": 440201,
+        "location": [
+            14838
+        ],
+        "name": "mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Mycobloom",
+        "id": 440204,
+        "location": [
+            14838
+        ],
+        "name": "mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 7
+    },
+    {
+        "displayName": "Mycobloom",
+        "id": 454063,
+        "location": [
+            14717
+        ],
+        "name": "mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 10
+    },
+    {
+        "displayName": "Mycobloom",
+        "id": 454071,
+        "location": [
+            14838,
+            15175,
+            15004
+        ],
+        "name": "mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 49
+    },
+    {
+        "displayName": "Mycobloom",
+        "id": 454076,
+        "location": [
+            14752,
+            14753,
+            15008,
+            -1
+        ],
+        "name": "mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 414317,
+        "location": [
+            14752,
+            14795,
+            14838,
+            -1
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 167
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452948,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 43
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452950,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 18
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452952,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 8
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452953,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452954,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452955,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452956,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 41
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452957,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 15
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452958,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 15
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452959,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452960,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 16
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452961,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 22
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452962,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 8
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452963,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 18
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452964,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 7
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452965,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452968,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Orbinid",
+        "id": 452969,
+        "location": [
+            14838
+        ],
+        "name": "orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 15
+    },
+    {
+        "displayName": "Smellsage Shrub",
+        "id": 421629,
+        "location": [
+            14752
+        ],
+        "name": "smellsage-shrub",
+        "skill": 1,
+        "type": -3,
+        "popularity": 7
+    },
+    {
+        "displayName": "Sporefused Arathor's Spear",
+        "id": 423363,
+        "location": [
+            14838,
+            14795
+        ],
+        "name": "sporefused-arathors-spear",
+        "skill": 1,
+        "type": -3,
+        "popularity": 43
+    },
+    {
+        "displayName": "Sporefused Blessing Blossom",
+        "id": 423364,
+        "location": [
+            14838
+        ],
+        "name": "sporefused-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 19
+    },
+    {
+        "displayName": "Sporefused Blessing Blossom",
+        "id": 454077,
+        "location": [
+            14795
+        ],
+        "name": "sporefused-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 18
+    },
+    {
+        "displayName": "Sporefused Blessing Blossom",
+        "id": 454082,
+        "location": [
+            14838
+        ],
+        "name": "sporefused-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 11
+    },
+    {
+        "displayName": "Sporefused Luredrop",
+        "id": 423366,
+        "location": [
+            14795,
+            14717,
+            14838,
+            -1
+        ],
+        "name": "sporefused-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 17
+    },
+    {
+        "displayName": "Sporefused Luredrop",
+        "id": 454006,
+        "location": [
+            14838
+        ],
+        "name": "sporefused-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 11
+    },
+    {
+        "displayName": "Sporefused Luredrop",
+        "id": 454050,
+        "location": [
+            14752,
+            14753,
+            14838
+        ],
+        "name": "sporefused-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 28
+    },
+    {
+        "displayName": "Sporefused Mycobloom",
+        "id": 423367,
+        "location": [
+            14998,
+            15005,
+            15175,
+            -1
+        ],
+        "name": "sporefused-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 11
+    },
+    {
+        "displayName": "Sporefused Mycobloom",
+        "id": 454064,
+        "location": [
+            14795
+        ],
+        "name": "sporefused-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 35
+    },
+    {
+        "displayName": "Sporefused Mycobloom",
+        "id": 454067,
+        "location": [
+            14838
+        ],
+        "name": "sporefused-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 20
+    },
+    {
+        "displayName": "Sporefused Mycobloom",
+        "id": 454072,
+        "location": [
+            14752,
+            14753,
+            14838
+        ],
+        "name": "sporefused-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 49
+    },
+    {
+        "displayName": "Sporefused Orbinid",
+        "id": 423368,
+        "location": [
+            14752,
+            14795,
+            14838,
+            -1
+        ],
+        "name": "sporefused-orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 32
+    },
+    {
+        "displayName": "Sporelusive Arathor's Spear",
+        "id": 429639,
+        "location": [
+            14752,
+            14838,
+            14795,
+            -1
+        ],
+        "name": "sporelusive-arathors-spear",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Sporelusive Arathor's Spear",
+        "id": 429644,
+        "location": [
+            14752,
+            14838,
+            14795,
+            -1
+        ],
+        "name": "sporelusive-arathors-spear",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Sporelusive Blessing Blossom",
+        "id": 429640,
+        "location": [
+            14752,
+            14838,
+            14795,
+            -1
+        ],
+        "name": "sporelusive-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 8
+    },
+    {
+        "displayName": "Sporelusive Blessing Blossom",
+        "id": 429645,
+        "location": [
+            14752,
+            14838,
+            14795,
+            -1
+        ],
+        "name": "sporelusive-blessing-blossom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Sporelusive Luredrop",
+        "id": 429641,
+        "location": [
+            14752,
+            14838,
+            14795,
+            -1
+        ],
+        "name": "sporelusive-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 17
+    },
+    {
+        "displayName": "Sporelusive Luredrop",
+        "id": 429646,
+        "location": [
+            14752,
+            14838,
+            14795,
+            -1
+        ],
+        "name": "sporelusive-luredrop",
+        "skill": 1,
+        "type": -3,
+        "popularity": 18
+    },
+    {
+        "displayName": "Sporelusive Mycobloom",
+        "id": 429642,
+        "location": [
+            14752,
+            14838,
+            14795,
+            -1
+        ],
+        "name": "sporelusive-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Sporelusive Mycobloom",
+        "id": 429647,
+        "location": [
+            14752,
+            14838,
+            14795,
+            -1
+        ],
+        "name": "sporelusive-mycobloom",
+        "skill": 1,
+        "type": -3,
+        "popularity": 17
+    },
+    {
+        "displayName": "Sporelusive Orbinid",
+        "id": 429643,
+        "location": [
+            14752,
+            14838,
+            14795,
+            -1
+        ],
+        "name": "sporelusive-orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 9
+    },
+    {
+        "displayName": "Sporelusive Orbinid",
+        "id": 429648,
+        "location": [
+            14752,
+            14838,
+            14795,
+            -1
+        ],
+        "name": "sporelusive-orbinid",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Tough Ivy",
+        "id": 444005,
+        "location": [
+            14838
+        ],
+        "name": "tough-ivy",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Tough Ivy",
+        "id": 444006,
+        "location": [
+            14838
+        ],
+        "name": "tough-ivy",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    },
+    {
+        "displayName": "Tough Ivy",
+        "id": 444010,
+        "location": [
+            14838
+        ],
+        "name": "tough-ivy",
+        "skill": 1,
+        "type": -3,
+        "popularity": 14
+    }
+]
