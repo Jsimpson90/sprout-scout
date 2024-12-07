@@ -10,7 +10,7 @@
         "name": "altered-luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 46
+        "popularity": 32
     },
     {
         "displayName": "Altered Mycobloom",
@@ -23,7 +23,7 @@
         "name": "altered-mycobloom",
         "skill": 1,
         "type": -3,
-        "popularity": 37
+        "popularity": 34
     },
     {
         "displayName": "Altered Orbinid",
@@ -36,7 +36,7 @@
         "name": "altered-orbinid",
         "skill": 1,
         "type": -3,
-        "popularity": 53
+        "popularity": 33
     },
     {
         "displayName": "Arathor's Spear",
@@ -49,7 +49,7 @@
         "name": "arathors-spear",
         "skill": 1,
         "type": -3,
-        "popularity": 199
+        "popularity": 181
     },
     {
         "displayName": "Blessing Blossom",
@@ -62,7 +62,7 @@
         "name": "blessing-blossom",
         "skill": 1,
         "type": -3,
-        "popularity": 63
+        "popularity": 67
     },
     {
         "displayName": "Blessing Blossom",
@@ -84,7 +84,7 @@
         "name": "blessing-blossom",
         "skill": 1,
         "type": -3,
-        "popularity": 16
+        "popularity": 15
     },
     {
         "displayName": "Camouflaged Arathor's Spear",
@@ -97,7 +97,7 @@
         "name": "camouflaged-arathors-spear",
         "skill": 1,
         "type": -3,
-        "popularity": 20
+        "popularity": 31
     },
     {
         "displayName": "Camouflaged Blessing Blossom",
@@ -143,7 +143,7 @@
         "name": "camouflaged-luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 20
+        "popularity": 16
     },
     {
         "displayName": "Camouflaged Luredrop",
@@ -154,7 +154,7 @@
         "name": "camouflaged-luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 17
+        "popularity": 11
     },
     {
         "displayName": "Camouflaged Luredrop",
@@ -166,7 +166,7 @@
         "name": "camouflaged-luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 13
+        "popularity": 15
     },
     {
         "displayName": "Camouflaged Mycobloom",
@@ -212,7 +212,7 @@
         "name": "camouflaged-mycobloom",
         "skill": 1,
         "type": -3,
-        "popularity": 14
+        "popularity": 7
     },
     {
         "displayName": "Camouflaged Orbinid",
@@ -239,7 +239,7 @@
         "name": "crystallized-arathors-spear",
         "skill": 1,
         "type": -3,
-        "popularity": 30
+        "popularity": 18
     },
     {
         "displayName": "Crystallized Blessing Blossom",
@@ -307,7 +307,7 @@
         "name": "irradiated-arathors-spear",
         "skill": 1,
         "type": -3,
-        "popularity": 55
+        "popularity": 37
     },
     {
         "displayName": "Irradiated Blessing Blossom",
@@ -319,7 +319,7 @@
         "name": "irradiated-blessing-blossom",
         "skill": 1,
         "type": -3,
-        "popularity": 25
+        "popularity": 27
     },
     {
         "displayName": "Irradiated Blessing Blossom",
@@ -330,7 +330,7 @@
         "name": "irradiated-blessing-blossom",
         "skill": 1,
         "type": -3,
-        "popularity": 21
+        "popularity": 22
     },
     {
         "displayName": "Irradiated Blessing Blossom",
@@ -341,7 +341,7 @@
         "name": "irradiated-blessing-blossom",
         "skill": 1,
         "type": -3,
-        "popularity": 9
+        "popularity": 8
     },
     {
         "displayName": "Irradiated Luredrop",
@@ -354,7 +354,7 @@
         "name": "irradiated-luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 113
+        "popularity": 67
     },
     {
         "displayName": "Irradiated Luredrop",
@@ -365,7 +365,7 @@
         "name": "irradiated-luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 7
+        "popularity": 22
     },
     {
         "displayName": "Irradiated Luredrop",
@@ -388,7 +388,7 @@
         "name": "irradiated-mycobloom",
         "skill": 1,
         "type": -3,
-        "popularity": 23
+        "popularity": 27
     },
     {
         "displayName": "Irradiated Mycobloom",
@@ -399,7 +399,7 @@
         "name": "irradiated-mycobloom",
         "skill": 1,
         "type": -3,
-        "popularity": 8
+        "popularity": 12
     },
     {
         "displayName": "Irradiated Mycobloom",
@@ -410,7 +410,7 @@
         "name": "irradiated-mycobloom",
         "skill": 1,
         "type": -3,
-        "popularity": 17
+        "popularity": 11
     },
     {
         "displayName": "Irradiated Mycobloom",
@@ -434,7 +434,7 @@
         "name": "irradiated-orbinid",
         "skill": 1,
         "type": -3,
-        "popularity": 43
+        "popularity": 52
     },
     {
         "displayName": "Luredrop",
@@ -448,7 +448,7 @@
         "name": "luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 66
+        "popularity": 114
     },
     {
         "displayName": "Luredrop",
@@ -514,7 +514,7 @@
         "name": "luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 16
+        "popularity": 11
     },
     {
         "displayName": "Luredrop",
@@ -536,7 +536,7 @@
         "name": "luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 84
+        "popularity": 86
     },
     {
         "displayName": "Luredrop",
@@ -591,7 +591,7 @@
         "name": "luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 7
+        "popularity": 9
     },
     {
         "displayName": "Luredrop",
@@ -602,7 +602,7 @@
         "name": "luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 180
+        "popularity": 201
     },
     {
         "displayName": "Luredrop",
@@ -615,7 +615,7 @@
         "name": "luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 59
+        "popularity": 65
     },
     {
         "displayName": "Luredrop",
@@ -626,7 +626,7 @@
         "name": "luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 25
+        "popularity": 10
     },
     {
         "displayName": "Lush Arathor's Spear",
@@ -639,7 +639,7 @@
         "name": "lush-arathors-spear",
         "skill": 1,
         "type": -3,
-        "popularity": 57
+        "popularity": 70
     },
     {
         "displayName": "Lush Blessing Blossom",
@@ -650,7 +650,7 @@
         "name": "lush-blessing-blossom",
         "skill": 1,
         "type": -3,
-        "popularity": 34
+        "popularity": 24
     },
     {
         "displayName": "Lush Blessing Blossom",
@@ -684,7 +684,7 @@
         "name": "lush-luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 62
+        "popularity": 43
     },
     {
         "displayName": "Lush Luredrop",
@@ -695,7 +695,7 @@
         "name": "lush-luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 27
+        "popularity": 28
     },
     {
         "displayName": "Lush Luredrop",
@@ -708,7 +708,7 @@
         "name": "lush-luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 32
+        "popularity": 39
     },
     {
         "displayName": "Lush Mycobloom",
@@ -754,7 +754,7 @@
         "name": "lush-mycobloom",
         "skill": 1,
         "type": -3,
-        "popularity": 43
+        "popularity": 29
     },
     {
         "displayName": "Lush Orbinid",
@@ -768,7 +768,7 @@
         "name": "lush-orbinid",
         "skill": 1,
         "type": -3,
-        "popularity": 23
+        "popularity": 21
     },
     {
         "displayName": "Mycobloom",
@@ -805,7 +805,7 @@
         "name": "mycobloom",
         "skill": 1,
         "type": -3,
-        "popularity": 14
+        "popularity": 15
     },
     {
         "displayName": "Mycobloom",
@@ -838,7 +838,7 @@
         "name": "mycobloom",
         "skill": 1,
         "type": -3,
-        "popularity": 10
+        "popularity": 15
     },
     {
         "displayName": "Mycobloom",
@@ -851,7 +851,7 @@
         "name": "mycobloom",
         "skill": 1,
         "type": -3,
-        "popularity": 49
+        "popularity": 44
     },
     {
         "displayName": "Mycobloom",
@@ -879,7 +879,7 @@
         "name": "orbinid",
         "skill": 1,
         "type": -3,
-        "popularity": 167
+        "popularity": 111
     },
     {
         "displayName": "Orbinid",
@@ -890,7 +890,7 @@
         "name": "orbinid",
         "skill": 1,
         "type": -3,
-        "popularity": 43
+        "popularity": 26
     },
     {
         "displayName": "Orbinid",
@@ -956,7 +956,7 @@
         "name": "orbinid",
         "skill": 1,
         "type": -3,
-        "popularity": 41
+        "popularity": 22
     },
     {
         "displayName": "Orbinid",
@@ -978,7 +978,7 @@
         "name": "orbinid",
         "skill": 1,
         "type": -3,
-        "popularity": 15
+        "popularity": 8
     },
     {
         "displayName": "Orbinid",
@@ -989,7 +989,7 @@
         "name": "orbinid",
         "skill": 1,
         "type": -3,
-        "popularity": 14
+        "popularity": 8
     },
     {
         "displayName": "Orbinid",
@@ -1011,7 +1011,7 @@
         "name": "orbinid",
         "skill": 1,
         "type": -3,
-        "popularity": 22
+        "popularity": 7
     },
     {
         "displayName": "Orbinid",
@@ -1100,7 +1100,7 @@
         "name": "sporefused-arathors-spear",
         "skill": 1,
         "type": -3,
-        "popularity": 43
+        "popularity": 37
     },
     {
         "displayName": "Sporefused Blessing Blossom",
@@ -1111,7 +1111,7 @@
         "name": "sporefused-blessing-blossom",
         "skill": 1,
         "type": -3,
-        "popularity": 19
+        "popularity": 21
     },
     {
         "displayName": "Sporefused Blessing Blossom",
@@ -1122,7 +1122,7 @@
         "name": "sporefused-blessing-blossom",
         "skill": 1,
         "type": -3,
-        "popularity": 18
+        "popularity": 22
     },
     {
         "displayName": "Sporefused Blessing Blossom",
@@ -1147,7 +1147,7 @@
         "name": "sporefused-luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 17
+        "popularity": 23
     },
     {
         "displayName": "Sporefused Luredrop",
@@ -1158,7 +1158,7 @@
         "name": "sporefused-luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 11
+        "popularity": 14
     },
     {
         "displayName": "Sporefused Luredrop",
@@ -1171,7 +1171,7 @@
         "name": "sporefused-luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 28
+        "popularity": 23
     },
     {
         "displayName": "Sporefused Mycobloom",
@@ -1196,7 +1196,7 @@
         "name": "sporefused-mycobloom",
         "skill": 1,
         "type": -3,
-        "popularity": 35
+        "popularity": 22
     },
     {
         "displayName": "Sporefused Mycobloom",
@@ -1220,7 +1220,7 @@
         "name": "sporefused-mycobloom",
         "skill": 1,
         "type": -3,
-        "popularity": 49
+        "popularity": 50
     },
     {
         "displayName": "Sporefused Orbinid",
@@ -1234,7 +1234,7 @@
         "name": "sporefused-orbinid",
         "skill": 1,
         "type": -3,
-        "popularity": 32
+        "popularity": 34
     },
     {
         "displayName": "Sporelusive Arathor's Spear",
@@ -1248,7 +1248,7 @@
         "name": "sporelusive-arathors-spear",
         "skill": 1,
         "type": -3,
-        "popularity": 14
+        "popularity": 7
     },
     {
         "displayName": "Sporelusive Arathor's Spear",
@@ -1318,7 +1318,7 @@
         "name": "sporelusive-luredrop",
         "skill": 1,
         "type": -3,
-        "popularity": 18
+        "popularity": 8
     },
     {
         "displayName": "Sporelusive Mycobloom",
@@ -1374,7 +1374,7 @@
         "name": "sporelusive-orbinid",
         "skill": 1,
         "type": -3,
-        "popularity": 14
+        "popularity": 7
     },
     {
         "displayName": "Tough Ivy",
