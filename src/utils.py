@@ -1,6 +1,9 @@
 import requests
 import json
+import math
+
 from logging_config import setup_logger
+
 
 # Set up the logger
 logger = setup_logger()
@@ -34,21 +37,12 @@ def save_data_to_json_file(data, file_path, ensure_ascii=False):
         logger.info(f"Data successfully saved to {file_path}")
     except IOError as e:
         logger.error(f"Failed to save data to {file_path}. Error: {e}")
-
-
-# Example usage in the main script:
-if __name__ == "__main__":
-    # Example URL and headers
-    example_url = "https://example.com/api/data"
-    example_headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
-
-    # Fetch page content
-    content = fetch_page_content(example_url, example_headers)
-    if content:
-        # Process and save content (assuming `content` is already JSON-compatible)
-        example_data = json.loads(content)  # Example: processing raw content
-        save_data_to_json_file(example_data, "output.json")
+    
+def encode_loc(x, y):
+    if x > 0.9999:
+        x = 0.9999
+    if y > 0.9999:
+        y = 0.9999
+    return math.floor(x * 10000 + 0.5) * 1000000 + math.floor(y * 10000 + 0.5) * 100
 
 

@@ -3,7 +3,8 @@ import json
 import math
 import time
 from consts import BASE_URL, HEADERS, RAW_HERB_DATA_OUTPUT_DIR, RAW_HERB_LIST_OUTPUT, HERB_IDS, LUA_OUTPUT_FILE, HERB_LIST_ENDPOINT
-from utils import fetch_page_content, setup_logger, save_data_to_json_file
+from convert_to_lua import convert_to_lua
+from utils import fetch_page_content, setup_logger, save_data_to_json_file, encode_loc
 
 # Set up the logger
 logger = setup_logger()
@@ -194,50 +195,6 @@ def get_herb_list_raw():
     save_data_to_json_file(parsed_data, RAW_HERB_LIST_OUTPUT)
     logger.info("Successfully fetched and saved raw herb list data.")
     
-def encode_loc(x, y):
-    if x > 0.9999:
-        x = 0.9999
-    if y > 0.9999:
-        y = 0.9999
-    return math.floor(x * 10000 + 0.5) * 1000000 + math.floor(y * 10000 + 0.5) * 100
-
-def convert_to_lua(parsed_file_path, lua_output_file):
-    logger.info(f"Starting LUA conversion. Input file: {parsed_file_path}, Output file: {lua_output_file}")
-    gathermate_db = {}
-
-    with open(parsed_file_path, 'r') as f:
-        for line in f:
-            try:
-                data = json.loads(line)
-                logger.debug(f"Processing data: {data}")
-                herb_code = data.get('herb_code')
-                if not herb_code:
-                    continue
-                nested_data = data.get('data', {})
-                for map_id, map_details in nested_data.items():
-                    for map_entry in map_details:
-                        coords = map_entry.get('coords', [])
-                        ui_map_id = map_entry.get('uiMapId')
-                        if not (ui_map_id and coords):
-                            continue
-                        for coord in coords:
-                            encoded_location = encode_loc(*coord)
-                            if ui_map_id not in gathermate_db:
-                                gathermate_db[ui_map_id] = {}
-                            gathermate_db[ui_map_id][encoded_location] = herb_code
-            except Exception as e:
-                logger.error(f"Error processing line: {line}, Error: {e}")
-
-    with open(lua_output_file, 'w') as f:
-        f.write("GatherMate2HerbDB = {\n")
-        for map_id, locations in gathermate_db.items():
-            f.write(f"    [{map_id}] = {{\n")
-            for loc, herb in locations.items():
-                f.write(f"        [{loc}] = {herb},\n")
-            f.write("    },\n")
-        f.write("}\n")
-    logger.info(f"LUA file written: {lua_output_file}")
-
 def main():
     start_time = time.time()
     print("Starting the main function...This may take a while.")
